@@ -1,13 +1,37 @@
 body {
 text-align:center;
 background-color:#ff8800
+
+}
+
+
+
+
+.jaida {
+  color: white;
 }
 h3 {
   font size: 5em;
   font-family: 'arial',serif;
   font-family: 'Kaushan Script', cursive;
+  color: white;
   }
 
-myPlaylist {
-   color: "white"
-  }
+p {
+  color: white;
+}
+ h4 {
+   color: white;
+ }
+ul {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: #42f4ce;
+}
+
+.yeah {
+  font-size: 2em;
+}
